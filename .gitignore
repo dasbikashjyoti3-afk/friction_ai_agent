@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+.pytest_cache/
+.env
+data/
+outputs/
+workspace/
+
+.env
+*.db
+data/
+workspace/
+outputs/

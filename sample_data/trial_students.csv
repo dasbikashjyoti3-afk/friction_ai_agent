@@ -1,0 +1,16 @@
+﻿Student Name ,Roll No,Subject ,Marks,Email Address,Join Date
+Alice Johnson,101,Math,90,alice@mail.com,2026-01-05
+Alice Johnson ,101,Math ,90,alice@mail.com,2026-01-05
+Bob Smith,102,Physics,,bob@mail.com,2026-01-06
+Carol White,103,,75,carol@mail.com,2026-01-07
+David Brown,104,Chemistry,82,,2026-01-08
+Bob Smith,102,Physics,,bob@mail.com,2026-01-06
+Eva Green,105,Biology,88,eva@mail.com,2026-01-09
+Frank Black,106,Math,67,frank@mail.com,
+Eva Green ,105,Biology,88,eva@mail.com,2026-01-09
+Grace Lee,107,English,91,grace@mail.com,2026-01-10
+Henry Ford,108,History,73,henry@mail.com,2026-01-11
+Carol White,103,,75,carol@mail.com,2026-01-07
+Ivy Chen,109,Physics,95,ivy@mail.com,2026-01-12
+Jack Ryan,110,Math,,jack@mail.com,2026-01-13
+Grace Lee,107,English,91,grace@mail.com,2026-01-10
